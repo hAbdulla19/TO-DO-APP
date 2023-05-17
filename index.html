@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="style.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body onload="initClock()">
+        <div class="container">
+            <h2 id="app_name">WHAT TO DO?</h2>
+            <div class="datetime">
+                <div class="date">
+                    <span id="dayname">Day</span>,
+                    <span id="month">Month</span>
+                    <span id="daynum">00</span>,
+                    <span id="year">Year</span>
+                </div>
+                <div class="time">
+                    <span id="hour">00</span>:
+                    <span id="minutes">00</span>:
+                    <span id="seconds">00</span>
+                    <span id="period">AM</span>
+                </div>
+            </div>
+            <div class="clipboard">
+                <h3>
+                    TO-DO LIST<img src="https://media.istockphoto.com/id/1148287574/vector/icon-clipboard-checklist-or-document-with-checkmarck-with-text-in-flat-style.jpg?s=612x612&w=0&k=20&c=WllwemH3OGd84hLIUYpeMypITum0KKRijKtr5nqD5Gw=" height="85" width="95">
+                </h3>
+                <div class="row">
+                    <input type="text" id="input-box" placeholder="Add Task For The Day">
+                    <button onclick="addTask()">ADD</button>
+                </div>
+                <ul id="list-container">
+                    <!-- <li class="checked"> -->
+                    <!-- <li>Task 1</li>
+                    <li>Task 2</li>
+                    <li>Task 3</li>  -->
+                </ul>
+            </div>
+        </div>
+        <div id="bottom">
+            <p>Developed by Hasan Abdulla</p>
+        </div>
+    
+    </body>
+
+
+  
+  <script src="script.js"></script>
+
+</html>
