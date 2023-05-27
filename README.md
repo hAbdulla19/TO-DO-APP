@@ -34,19 +34,12 @@
     <img src="images/SS.png" alt="Logo" width="500">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">WHAT TO DO?</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A To-Do app that keeps track of one's day to day objectives. A versatile app that can keep track of all sorts of tasks!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://what-to-do.hasanabdulla.repl.co/"><strong>HOME PAGE</strong></a>
   </p>
 </div>
 
