@@ -30,10 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/SS.png" alt="Logo" width="500">
-  </a>
-
+  <img src="images/SS.png" alt="Logo" width="500">
   <h3 align="center">WHAT TO DO?</h3>
 
   <p align="center">
@@ -61,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/Progress.png" alt="Progress" width="400">
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
