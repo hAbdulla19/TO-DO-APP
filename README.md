@@ -31,7 +31,7 @@
 
 <img src="images/Progress.png" alt="Progress" width="1000">
 
-There are many beneficial factors to "WHAT TO DO?" as it was designed to be a multi-purpose application. From keeping tabs on your academic to-do's and goals to managing a work schedule, the application can handle all forms of ensuring an individual stays up to date with their goals and objectives.
+There are many beneficial factors to "WHAT TO DO?" as it was designed to be a multi-purpose application. From keeping tabs on your academic to-do's and goals to managing a work schedule, the application can handle all forms of ensuring an individual stays up to date with their goals and objectives. Using a Data Saver, Users Have the Full Ability to Use "WHAT TO DO?" on Any Smartphone, Tablet, or Desktop/Laptop and Maintain Their To-Do's Without Losing Their Checklists Across Mulitple Devices Simultaneously. 
 
 <!-- CONTACT -->
 ## Contact
